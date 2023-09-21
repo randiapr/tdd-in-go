@@ -5,11 +5,15 @@ multilingual = false
 src = "src"
 title = "TDD Makes Everyone Happy"
 
+[build]
+build-dir = "public"
+
+[preprocessor]
+
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
+[output]
+
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
-
-[build]
-build-dir = "public"
