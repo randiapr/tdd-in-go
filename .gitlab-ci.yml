@@ -1,10 +1,11 @@
 pages:
   stage: deploy
-  script:
+  before_script:
       - wget https://github.com/rust-lang/mdBook/releases/download/v0.4.34/mdbook-v0.4.34-x86_64-unknown-linux-gnu.tar.gz
       - wget https://github.com/badboy/mdbook-mermaid/releases/download/v0.12.6/mdbook-mermaid-v0.12.6-x86_64-unknown-linux-gnu.tar.gz
       - tar xvzf mdbook-mermaid-v0.12.6-x86_64-unknown-linux-gnu.tar.gz
       - tar xvzf mdbook-v0.4.34-x86_64-unknown-linux-gnu.tar.gz
+  script:
       - ./mdbook build
   artifacts:
       paths:
