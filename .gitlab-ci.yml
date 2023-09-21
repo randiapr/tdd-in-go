@@ -4,11 +4,11 @@ pages:
       - wget https://github.com/rust-lang/mdBook/releases/download/v0.4.34/mdbook-v0.4.34-x86_64-unknown-linux-gnu.tar.gz
       - tar xvzf mdbook-v0.4.34-x86_64-unknown-linux-gnu.tar.gz
       - ./mdbook build
-  only:
-      - main 
   artifacts:
       paths:
           - public
+  only:
+      - main 
   cache:
     - key:
         files:
