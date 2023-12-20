@@ -3,8 +3,8 @@ You will need a version of Go later than 1.19 installed on your computer. All co
 
 |Software|Operating system requirements|
 |---|---|
-|Go 1.19|Windows, macOS, or Linux|
-|PostgreSQL 15|Windows, macOS, or Linux|
+|Go 1.21|Windows, macOS, or Linux|
+|PostgreSQL 16|Windows, macOS, or Linux|
 |Docker Desktop 4.17|Windows, macOS, or Linux|
 |Thunderclient VsCode extension v2.12.1 (optional)|Windows, macOS, or Linux|
 

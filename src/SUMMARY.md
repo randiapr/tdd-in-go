@@ -1,10 +1,16 @@
 # Summary
 [Introduction](./introduction.md)
-# Guide
-- [Reading Book](guide/reading_book.md)
-- [Installation](guide/installation.md)
-# Chapter 1
-- [Iterative Approach of TDD](chapter1/approach_tdd.md)
-- [Overview Demo Project](chapter1/overview.md)
-- [Test Scenario](chapter1/test_scenario.md)
-- [Class Diagram](chapter1/class_diagram.md)
+[Reading Book](./reading_book.md)
+[Installation](./installation.md)
+
+- [Why We Use TDD](./why_tdd.md)
+- [Iterative Approach of TDD](./approach_tdd.md)
+- [Arrange Act Assert](./arrange_act_assert.md)
+- [Overview Demo Project](./overview.md)
+- [Test Scenario](./test_scenario.md)
+- [Class Diagram](./class_diagram.md)
+- [Overview Code Structure](./code_structure.md)
+- [Mocking and Assertion Frameworks](./mocking.md)
+- [TDD Flow Againts Test Scenario](./tdd_flow.md)
+
+- [List of References](appendix.md)

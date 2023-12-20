@@ -3,7 +3,7 @@ authors = ["Randi Apriansyah"]
 language = "en"
 multilingual = false
 src = "src"
-title = "TDD Makes Everyone Happy"
+title = "Test Driven Development With Go"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
