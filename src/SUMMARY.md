@@ -5,7 +5,6 @@
 
 - [Why We Use TDD](./why_tdd.md)
 - [Iterative Approach of TDD](./approach_tdd.md)
-- [Arrange Act Assert](./arrange_act_assert.md)
 - [Overview Demo Project](./overview.md)
 - [Test Scenario](./test_scenario.md)
 - [Class Diagram](./class_diagram.md)
