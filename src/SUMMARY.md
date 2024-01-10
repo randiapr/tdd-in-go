@@ -1,8 +1,10 @@
 # Summary
-[Introduction](./introduction.md)
-[Reading Book](./reading_book.md)
-[Installation](./installation.md)
 
+[Introduction](./introduction.md)
+# Guide
+- [Reading Book](./reading_book.md)
+- [Installation](./installation.md)
+# Reference
 - [Why We Use TDD](./why_tdd.md)
 - [Iterative Approach of TDD](./approach_tdd.md)
 - [Overview Demo Project](./overview.md)
